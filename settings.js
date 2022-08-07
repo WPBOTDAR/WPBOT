@@ -54,15 +54,15 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['wa.me/6282162837259'] //wa.me/6282162837259
+global.vcardowner = ['6282162837259'] 6282162837259
 global.ownername = "MARZUKI" //ZUKI
 global.ytname = "YT: Zuki" //ur yt chanel name
 global.socialm = "GitHub:zuki mar " //marzuki
 global.location = "Indonesia, medan, indonesia" //Indonesia
 
 //bot bomdy 
-global.owner = ['wa.me/6282162837259']
-global.ownertag = 'wa.me/6282162837259' //wa.me/6282162837259
+global.owner = ['6282162837259']
+global.ownertag = '6282162837259' //6282162837259
 global.botname = 'WPBOT MD V4' //WPBOT
 global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
